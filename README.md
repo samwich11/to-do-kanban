@@ -4,7 +4,7 @@ A modern drag-and-drop Kanban board built with React, TypeScript, and Tailwind C
 
 ## 🔗 Live Demo
 
-👉 [View the App](https://vercel.com/samwich11s-projects/to-do-kanban)
+👉 [View the App](https://to-do-kanban-roan.vercel.app/)
 
 ## 🛠 Tech Stack
 
